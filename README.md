@@ -11,6 +11,17 @@
     <img src="https://skillicons.dev/icons?i=git,github,idea,clion,pycharm,webstorm,rider,visualstudio,vscode,linux,windows,ubuntu" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,nodejs,cmake,dotnet,nginx,mysql,redis,docker,maven,qt" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pr,ae,au,ps,godot,unreal,unity,blender" />
+  </a>
+</p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Echo-Cax&bg_color=bdd1ff&color=a37ba0&line=9e4c98&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
